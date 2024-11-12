@@ -13,4 +13,3 @@ Integrante do Projeto
   - Baixar o arquivo random_1.py do repositório
   - Abrir o arquivo python 
   - Preencher os dados de acordo com o seu "connect" (DATABASE_NAME, USER, PASSWORD, HOST, 26257)
-  - *A porta padrão do cockroachDB é 26257
