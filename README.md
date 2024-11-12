@@ -4,7 +4,7 @@ Integrante do Projeto
   - Paulo Vinicius Araujo Feitosa
   - R.A: 24122.042-5
 # Diagrama Relacional
-![]()
+![](https://github.com/PauloViniciusAF/BetDB/blob/main/diagrama_betDB.png)
 
 
 # Como se conectar ao Banco de dados 
